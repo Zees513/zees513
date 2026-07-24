@@ -1,165 +1,115 @@
+<!-- ===================================================== -->
+<!--                 PREMIUM GITHUB PROFILE                 -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Zeeshan Hanif
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:3b82f6,100:9333ea&text=Zeeshan%20Hanif&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Laravel+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" />
+# 👋 Welcome to My GitHub Universe
 
-<img src="https://komarev.com/ghpvc/?username=Zees513&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Laravel+Developer;React+Developer;Node.js+Developer;Firebase+Enthusiast;Always+Learning+New+Technologies;Building+Amazing+Web+Applications" />
+
+<br>
+
+<a href="https://github.com/Zees513">
+<img src="https://img.shields.io/github/followers/Zees513?label=Followers&style=for-the-badge&color=3b82f6"/>
+</a>
+
+<a href="https://github.com/Zees513">
+<img src="https://img.shields.io/github/stars/Zees513?affiliations=OWNER&style=for-the-badge&color=9333ea"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Zees513&style=for-the-badge&color=0ea5e9" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-🎓 Software Engineering Student
+```yaml
+Name: Zeeshan Hanif
 
-💻 Full Stack Web Developer
+Location: Pakistan
 
-🌱 Currently Learning
+Role: Full Stack Web Developer
 
-- Laravel
-- Node.js
-- Express.js
-- MongoDB
-- React.js
-- Firebase
+Learning:
+  - Laravel
+  - React
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Firebase
 
-🚀 Interested In
+Interests:
+  - Web Development
+  - REST APIs
+  - Modern UI/UX
+  - AI Powered Applications
+  - Open Source
 
-- Full Stack Development
-- AI Powered Web Applications
-- REST APIs
-- Modern UI/UX
-- Database Design
-
-⚡ Fun Fact
-
-> I love solving programming problems and building real-world applications.
+Goal:
+  Become an Expert Full Stack Engineer
+```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:zk.work99@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/zeeshan-hanif-5a6256388/" target="_blank">
+<a href="https://www.linkedin.com/in/zeeshan-hanif-5a6256388/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://zeeshan-hanif-portfolio.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://zeeshan-hanif-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,firebase,php,laravel,mysql,git,github,vscode,figma,postman,npm,vite" />
-
-</p>
-
----
-
-# 💻 Languages & Tools
-
-<p align="center">
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
+# 💻 Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://user-images.githubusercontent.com/69109482/173346668-bcbea83b-384f-472c-994d-33286fbacbc6.png"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zees513&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,firebase,php,laravel,mysql,git,github,vscode,figma,postman,npm,vite"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🌟 What I'm Working On
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Zees513&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zees513&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+- 🚀 Building modern full-stack web applications
+- 📖 Developing **Quran Mentors Online**
+- ⚡ Learning advanced Laravel architecture
+- 🔥 Exploring REST APIs and authentication
+- 🎯 Improving problem-solving and backend skills
 
 ---
 
-# 📈 Contribution Graph
+# 📫 Contact
+
+- 📧 **Email:** zk.work99@gmail.com
+- 🌐 **Portfolio:** https://zeeshan-hanif-portfolio.netlify.app
+- 💼 **LinkedIn:** https://www.linkedin.com/in/zeeshan-hanif-5a6256388/
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zees513&theme=tokyo-night"/>
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
 
 </div>
-
-## Hi there 👋
-
-<!--
-**Zees513/zees513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
