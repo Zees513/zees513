@@ -91,7 +91,7 @@ Goal:
 # 🌟 What I'm Working On
 
 - 🚀 Building modern full-stack web applications
-- 📖 Developing **Quran Mentors Online**
+- 📖 Developing **Cutting Edge Technologies**
 - ⚡ Learning advanced Laravel architecture
 - 🔥 Exploring REST APIs and authentication
 - 🎯 Improving problem-solving and backend skills
