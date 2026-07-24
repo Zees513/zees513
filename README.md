@@ -28,7 +28,7 @@
 
 # 🚀 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<img align="right" width="330" src="https://images.unsplash.com/photo-1753545975907-dcb51efdd0d5?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
 ```yaml
 Name: Zeeshan Hanif
