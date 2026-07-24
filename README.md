@@ -28,9 +28,7 @@
 
 # 🚀 About Me
 
-<img align="right" width="330" height="500px" src="https://images.unsplash.com/photo-1753545975907-dcb51efdd0d5?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
-
-<img align="right" width="330" height="500px" src="https://images.unsplash.com/photo-1753545975907-dcb51efdd0d5?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+<img align="right" width="330" height="500px" src="[https://images.unsplash.com/photo-1753545975907-dcb51efdd0d5?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNDFsNDJrNjBtandvZmQ3dnQxd3BhZmN5eHdrazc5NDBvazlmMG11dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif)"/>
 
 ```yaml
 Name: Zeeshan Hanif
