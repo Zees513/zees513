@@ -111,7 +111,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zees513&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://user-images.githubusercontent.com/69109482/173346668-bcbea83b-384f-472c-994d-33286fbacbc6.png"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zees513&layout=compact&theme=tokyonight&hide_border=true"/>
 
